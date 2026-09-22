@@ -8,9 +8,9 @@ Config.MarkerDistance = 10.0
 
 Config.Webhook = {
 
-    enabled = true,
+    enabled = false,
 
-    url = 'https://discord.com/api/webhooks/1407703577001984090/PDe_0FuP4AChyyCQ1P03Xu5X1J1t8q3yDXzZkZwy1tmaXZeXcjq_2JTds9tJRzqKL50P'
+    url = 'YOUR_WEBHOOK_HERE'
 }
 
 Config.Locales = {
